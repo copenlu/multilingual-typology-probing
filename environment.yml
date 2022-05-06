@@ -1,0 +1,32 @@
+name: multilingual-typology-probing
+channels:
+  - plotly
+  - conda-forge
+  - pytorch
+dependencies:
+  - pytorch=1.8.1
+  - torchvision
+  - torchaudio
+  - python=3.8
+  - pip
+  - pyyaml
+  - mypy
+  - tqdm
+  - overrides=3.1.0
+  - flake8
+  - pycountry
+  - plotly
+  - requests
+  - plotly-orca
+  - numpy
+  - pandas
+  - matplotlib==3.3.3
+  - seaborn
+  - scikit-learn
+  - conllu
+  - transformers
+  - lang2vec
+  - pip:
+      - wandb
+      - git+https://github.com/harvardnlp/pytorch-struct@v0.5
+      - torch-scatter -f https://data.pyg.org/whl/torch-1.10.0+cu113.html
