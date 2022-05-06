@@ -45,7 +45,7 @@ If this code or the paper were usefull to you, consider citing it:
     title = "Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models",
     author = "Stańczak, Karolina and 
     Ponti, Edoardo and 
-    Hennigen, Lucas Torroba and 
+    Torroba Hennigen, Lucas and 
     Cotterell, Ryan and 
     Augenstein, Isabelle",
     booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
